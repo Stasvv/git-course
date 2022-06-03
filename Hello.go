@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("внесли изменения Lesson1")
+	fmt.Println("переписал в гите в браузере")
 }
